@@ -1,2 +1,2 @@
-# PTII
-Programming Technique II
+# Programming stuff
+CPP
